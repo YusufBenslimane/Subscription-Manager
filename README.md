@@ -28,5 +28,5 @@ Built using **Tkinter**, **SQLite**, and **Matplotlib**.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Subscription-Manager.git
+   git clone https://github.com/YusufBenslimane/Subscription-Manager.git
    cd Subscription-Manager
